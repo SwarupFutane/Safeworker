@@ -4,7 +4,7 @@
 SafeSite is a Computer Vision application designed to enhance workplace safety. Using YOLOv8 and OpenCV, it monitors video feeds to 
 ensure compliance with safety gear regulations.
 
-![Real Time Preview](assets\11.png)
+![Real Time Preview](assets/11.png)
 
 ## Features
 - **Real-time Inference:** Processes video at ~30 FPS.
